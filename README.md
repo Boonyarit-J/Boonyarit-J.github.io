@@ -1,4 +1,4 @@
-[alt text](Petch.jpg)
+![alt text](Petch.jpg)
 # Who Am I
 + Name   :
 * ชื่อสกุล :
